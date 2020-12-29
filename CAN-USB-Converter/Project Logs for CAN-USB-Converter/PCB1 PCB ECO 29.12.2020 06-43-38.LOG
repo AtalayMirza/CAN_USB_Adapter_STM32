@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CAN_SILENT Pin=U1-11
+Removed Pin From Net: NetName=STATUS_LED Pin=U1-25
+Removed Pin From Net: NetName=CAN1_STATUS_LED Pin=U1-39
+Added Pin To Net: NetName=STATUS_LED Pin=U1-12
+Added Pin To Net: NetName=CAN1_STATUS_LED Pin=U1-13
+Added Pin To Net: NetName=CAN_SILENT Pin=U1-39
+Added Room: Name=Sheet1
