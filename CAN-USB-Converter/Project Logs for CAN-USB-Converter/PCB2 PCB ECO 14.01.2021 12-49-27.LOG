@@ -1,0 +1,8 @@
+Added Component: Designator=R?(120ohmJumper)
+Added Pin To Net: NetName=NetC13_1 Pin=R?-1
+Added Pin To Net: NetName=NetC12_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_3 Pin=R?-3
+Added Pin To Net: NetName=NetR?_3 Pin=R?-4
+Added Net: Name=NetR?_3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1200hmJunper
+Added Room: Name=Sheet1

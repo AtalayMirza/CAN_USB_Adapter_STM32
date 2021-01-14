@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RNRELWMX
 
 [Document4]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=PCB2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,10 +103,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SWKSDECX
+DocumentUniqueId=AUYSGJJM
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for CAN-USB-Converter\Design Rule Check - PCB1.html
+DocumentPath=Project Outputs for CAN-USB-Converter\Design Rule Check - PCB2.html
 DItemRevisionGUID=
 
 [Configuration1]

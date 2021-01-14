@@ -1,0 +1,9 @@
+Added Component: Designator=J1(61301021021)
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=SWDIO Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=SWCLK Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=NRST Pin=J1-10
+Added Member To Class: ClassName=Sheet1 Member=Component J1 JTAG/SWD
+Added Room: Name=Sheet1

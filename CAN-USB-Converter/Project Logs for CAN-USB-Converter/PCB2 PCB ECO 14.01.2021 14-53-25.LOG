@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=STATUS_LED Pin=U1-33
+Added Pin To Net: NetName=CAN1_STATUS_LED Pin=U1-34
+Added Room: Name=Sheet1
